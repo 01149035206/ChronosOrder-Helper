@@ -23,7 +23,7 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "Custom Status", // required by Discord API, not shown in the client
+        name: "ChronosOrder Helper", // required by Discord API, not shown in the client
         state: "ChronosOrder Helper",     // this is what people actually see
         type: 4,               // Custom
       },
